@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/71635987/117978419-22e37200-b332-11eb-9478-fb433a7da244.png)
 ![image](https://user-images.githubusercontent.com/71635987/117978557-49a1a880-b332-11eb-9299-bec885d30e68.png)
 
-## Add a new book to your list!
+## Add a new book to your list!(some fileds require validations as in the pic below)
 ![image](https://user-images.githubusercontent.com/71635987/117978794-89689000-b332-11eb-84f4-4fcb850a1867.png)
 
 ## Filter the list to find a book infos!
